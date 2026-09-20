@@ -58,10 +58,10 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 StudyMate AI
+### 🎓 StudyMate 
 An AI-powered study assistant designed to help students organize and improve their learning.
 
-**Tech:** Python • AI • Data Science
+**Tech:** Python • FastAPI • HTML
 
 > 🚧 More projects coming soon...
 
