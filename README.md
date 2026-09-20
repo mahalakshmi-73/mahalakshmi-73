@@ -59,9 +59,9 @@
 ## 🚀 Featured Projects
 
 ### 🎓 StudyMate 
-An AI-powered study assistant designed to help students organize and improve their learning.
+StudyMate helps students track study hours and marks, analyze performance, and get personalized study suggestions and study plans.
 
-**Tech:** Python • FastAPI • HTML
+**🛠️Tech:** Python • FastAPI • HTML • SQLAlchemy • SQLite • CSS • JavaScript
 
 > 🚧 More projects coming soon...
 
